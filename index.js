@@ -10,7 +10,7 @@ class hero{
     }
 }
 
-let hero1 = new hero("Zhongli", 9.000, "guerreiro")
+let hero1 = new hero("Zhongli", 1000, "guerreiro")
 let hero2 = new hero("Lisa", 27, "mago")
 
 hero1
